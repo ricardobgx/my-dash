@@ -1,0 +1,3 @@
+interface INavbarFixedLinksProps {
+  currentPath: string;
+}
